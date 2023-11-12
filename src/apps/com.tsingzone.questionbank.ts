@@ -1,8 +1,8 @@
 import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
-  id: 'cn.wps.moffice_eng',
-  name: 'WPS',
+  id: 'com.tsingzone.questionbank',
+  name: '一起考教师',
   {
   "id": "com.tsingzone.questionbank",
   "name": "一起考教师",
